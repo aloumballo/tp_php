@@ -1,3 +1,4 @@
+
 <?php
 //Charge mes fonctions ou inclure
 include_once("fonctions.php");

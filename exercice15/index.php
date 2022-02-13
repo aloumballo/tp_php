@@ -7,14 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-   <form action="" method="post">
-       <label for="">Saisir une valeur N</label>
-       <input type="text" name="v">
-       <input type="submit" >
-   </form>
-   <?php
-     include_once("controller.php");
-        saisie($n);
-   ?>
+    <form action="controller.php" method="">
+        <label for=""></label>
+
+    </form>
+    
 </body>
 </html>
